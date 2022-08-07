@@ -1,0 +1,9 @@
+﻿  BAT.cpp
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(63,1): warning C4216: nonstandard extension used: float long
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(64,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(92,24): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(92,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(241,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(244,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\BAT_Test\BAT.h(247,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BAT_Test.vcxproj -> C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_Test\x64\Debug\BAT_Test.exe
