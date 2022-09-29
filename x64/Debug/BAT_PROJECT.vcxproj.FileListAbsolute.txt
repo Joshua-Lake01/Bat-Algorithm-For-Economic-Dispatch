@@ -1,0 +1,14 @@
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\BAT_PROJECT\BAT_PROJECT\x64\Debug\BAT_PROJECT.vcxproj.AssemblyReference.cache
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\BAT_PROJECT\BAT_PROJECT\x64\Debug\BAT_PROJECT.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.MainForm.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\BAT_PROJECT\BAT_PROJECT\x64\Debug\BAT_PROJECT.vcxproj.GenerateResource.cache
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.SolutionForm.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.MapForm.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BAT_PROJECT.vcxproj.AssemblyReference.cache
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BAT_PROJECT.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.MapForm.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BAT_PROJECT.vcxproj.GenerateResource.cache
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.SolutionsMain.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.NewMainForm.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.GraphForm.resources
+C:\Users\joshu\Documents\School\CS\Final Project\Project Solution\MAIN PROJECT\BAT_PROJECT\BAT_PROJECT\x64\Debug\BATPROJECT.Info.resources
